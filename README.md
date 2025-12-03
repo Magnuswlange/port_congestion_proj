@@ -20,6 +20,9 @@ pip install -r requirements.txt
 
 # install jupyter kernel for .ipynb
 python -m ipykernel install --user --name=port_congestion --display-name="Port Congestion (venv)"
+
+# verify deps installed successfully
+python -c "import pandas, geopandas, matplotlib; print('deps successfully installed!')"
 ```
 
 ### Showcase
