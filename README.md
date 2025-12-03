@@ -1,6 +1,11 @@
 ## AIS data visualization for port congestion project
-### > [!WARNING]
+
+### Notice
 > Ships without /data! Not sure if we're licensed to redistribute these files. Acquire them on your own.
+
+### Where to get /data
+- coastline dataset: https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-coastline/
+- AIS dataset (Awake): redacted
 
 ### Setup
 ```bash
