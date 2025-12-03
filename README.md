@@ -1,4 +1,7 @@
 ## AIS data visualization for port congestion project
+### > [!WARNING]
+> Ships without /data! Not sure if we're licensed to redistribute these files. Acquire them on your own.
+
 ### Setup
 ```bash
 # clone repo
