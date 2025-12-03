@@ -35,3 +35,5 @@ logs/
 *.tmp
 temp/
 
+# Misc
+awake_original.ipynb
