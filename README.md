@@ -4,8 +4,9 @@
 > Ships without /data! Not sure if we're licensed to redistribute these files. Acquire them on your own.
 
 ### Where to get /data
-- Coastline dataset: https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-coastline/
-- AIS dataset (Awake): redacted
+- Coastline dataset: https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-coastline/:/data/ne_10m_coastline/
+- AIS dataset (Awake): redacted:/data/mission-voyage-examples/
+- SPIRE AIS dataset: redacted:/data/SPIRE_VesselData_Sample
 
 ### Setup
 ```bash
